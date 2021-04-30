@@ -2,9 +2,9 @@
     "homepage": "https://dz.blizzard.cn/",
     "description": "Warcraft III Battle Platform",
     "license": "Freeware",
-    "version": "2.2.15",
-    "url": "https://w3r.gdl.netease.com/dzclient-2.2.15.exe#/dl.7z",
-    "hash": "57eb00210cc402353f0dee925d80a3ddfcd6729c33638921590bfb558ebdf7d3",
+    "version": "2.2.16",
+    "url": "https://w3r.gdl.netease.com/dzclient-2.2.16.exe#/dl.7z",
+    "hash": "b1f3d42342e9900c6be884a0a6301839cd35ef464f096a63d3e44df2d860100f",
     "extract_dir": "$_3_",
     "post_install": "Remove-Item \"$dir\\`$_3_\" -Recurse",
     "shortcuts": [
