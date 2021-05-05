@@ -1,13 +1,13 @@
 {
     "homepage": "http://mineways.com/",
     "description": "Exports models from Minecraft for 3D printing or rendering.",
-    "version": "8.06",
+    "version": "8.07",
     "license": {
         "identifier": "Minutor License",
         "url": "https://github.com/erich666/Mineways/blob/master/license.txt"
     },
-    "url": "http://realtimerendering.com/erich/minecraft/public/mineways/minewaysV806.zip",
-    "hash": "8810811548b906bd1e4840201bae319c8dc030ac66f7e7bfe1e2cd6faebd0ff6",
+    "url": "http://realtimerendering.com/erich/minecraft/public/mineways/minewaysV807.zip",
+    "hash": "87900c5150b3e83eb8eafea60b330363a7a53439805c2e504a9d4fa9e974cfd1",
     "extract_dir": "mineways",
     "shortcuts": [
         [
