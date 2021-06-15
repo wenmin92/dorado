@@ -1,12 +1,12 @@
 {
     "homepage": "https://activitywatch.net/",
     "description": "Records what you do so that you can know how you've spent your time",
-    "version": "0.11.0",
+    "version": "0.10.0",
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ActivityWatch/activitywatch/releases/download/v0.11.0/activitywatch-v0.11.0-windows-x86_64.zip",
-            "hash": "69fae351236a63fe7f4fc4db39e909bce3f6417a3458b9f8b18494a8d4b52c37"
+            "url": "https://github.com/ActivityWatch/activitywatch/releases/download/v0.10.0/activitywatch-v0.10.0-windows-x86_64.zip",
+            "hash": "daac3e9406f4f05b54ef438cf6b9cb0359d0d0b60abce5bb7f84c41e4ee77193"
         }
     },
     "extract_dir": "activitywatch",
