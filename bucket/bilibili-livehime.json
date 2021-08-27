@@ -2,9 +2,9 @@
     "homepage": "https://live.bilibili.com/liveHime",
     "description": "BiliBili Live Streaming tool",
     "license": "Unknown",
-    "version": "3.41.1.2314",
-    "url": "https://dl-hdslb-com.oss-cn-shanghai.aliyuncs.com/bili/bililive/win/Livehime-Win-beta-3.41.1.2314.exe",
-    "hash": "e06ca5f18b5d2d518a0e8c5c98d0d904d9e9f34a47bc95cd3b57ca9ded1bbf30",
+    "version": "3.41.2.2338",
+    "url": "https://dl-hdslb-com.oss-cn-shanghai.aliyuncs.com/bili/bililive/win/Livehime-Win-beta-3.41.2.2338.exe",
+    "hash": "f74ee6cab7a8e86c5927ca2b3b5ea1c4e7a2382de46a8c657c7f2c8144c2363a",
     "depends": "innounp",
     "installer": {
         "script": "Expand-InnoArchive -Path \"$dir\\$fname\" -Removal"
